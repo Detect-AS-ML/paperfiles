@@ -23,7 +23,7 @@ In this folder, all results of experiment comparsion are recorded here. There ar
 the PCA means the PCA algorithm with ML(Machine Learning). 
 and the F-x means our feature selection method (the number means the strong correlation features of each MASs such as F16 means there 16 strong correlation features).
 
-##Single Feature Verification 
+## Single Feature Verification 
 In this folder, the documents record the single feature experiment results for further evaluating our feature selection method.
 
 ## Strong Correlation Features 
