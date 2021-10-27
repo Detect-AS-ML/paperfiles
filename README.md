@@ -29,6 +29,6 @@ In this folder, the documents record the single feature experiment results for f
 ## Strong Correlation Features 
 In this file, the strong correlation features that selected by our feature selection method of each ASs are recorded.
 
-## Results Table
+## Tables
 In this folder, all experiments values are recorded. It is important to note that PCA algorithm with ML are also recorded here for evaluating our experiments. 
 And the results of traditional detection method are showed in paper.
