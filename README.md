@@ -3,9 +3,13 @@
 **MASs**
 
 CD: Cyclic Dependency
+
 UD: Unstable Dependency
+
 FC: Feature Concentration
+
 LS: Lego Syndrome 
+
 Introducion for each documents
 ## Datasets
 In this folder, there are all datasets for MASs including raw datasets, strong correlation datasets and single features datasets. 
