@@ -1,6 +1,6 @@
 # paperfiles
 
-**MASs**
+**Architectural Smells(ASs)**
 
 CD: Cyclic Dependency
 
@@ -21,13 +21,13 @@ The 56 features are classified into 4 categories including Size, Complexity, Cou
 ## Figures
 In this folder, all results of experiment comparsion are recorded here. There are three picture annotation in figures: the raw datasets means ML algorithms with raw datasets, 
 the PCA means the PCA algorithm with ML(Machine Learning). 
-and the F-x means our feature selection method (the number means the strong correlation features of each MASs such as F16 means there 16 strong correlation features).
+and the F-x means our feature selection method (the number means the strong correlation features of each ASs such as F16 means there 16 strong correlation features).
 
 ## Single Feature Verification 
 In this folder, the documents record the single feature experiment results for further evaluating our feature selection method.
 
 ## Strong Correlation Features 
-In this file, the strong correlation features that selected by our feature selection method of each MASs are recorded.
+In this file, the strong correlation features that selected by our feature selection method of each ASs are recorded.
 
 ## Results Table
 In this folder, all experiments values are recorded. It is important to note that PCA algorithm with ML are also recorded here for evaluating our experiments. 
